@@ -1,0 +1,9 @@
+p {
+    height: 30px;
+}
+#box {
+    background-color: #F00;
+    border: 1px solid #000;
+    height: 100px;
+    width: 100px;
+}
